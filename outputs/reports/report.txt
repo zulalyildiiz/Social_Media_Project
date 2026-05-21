@@ -1,0 +1,65 @@
+
+SOCIAL MEDIA ANALYSIS REPORT
+============================
+
+1. DATASET INFORMATION
+----------------------------
+This dataset contains social media,
+sleep, stress and productivity data
+from 11,000 users.
+
+
+2. STATISTICAL ANALYSIS
+----------------------------
+
+Average Productivity:
+50.62
+
+Standard Deviation:
+28.83
+
+Minimum Productivity:
+1.00
+
+Maximum Productivity:
+99.99
+
+
+3. CORRELATION ANALYSIS
+----------------------------
+
+Social Media vs Productivity:
+-0.01
+
+
+4. MACHINE LEARNING RESULTS
+----------------------------
+
+MSE:
+851.55
+
+RMSE:
+29.18
+
+Random Forest Regressor model
+was used for productivity prediction.
+
+5. AI COMMENT
+----------------------------
+
+Users generally have medium productivity.
+
+
+6. GENERAL EVALUATION
+----------------------------
+
+The dataset was analyzed using:
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- scikit-learn
+
+Graphs and machine learning
+predictions were successfully created.
